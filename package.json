@@ -1,0 +1,9 @@
+
+{
+    "scripts": {
+      "start": "node ."
+    },
+    "dependencies": {
+      "node-static": "^0.7.9"
+    }
+  }
